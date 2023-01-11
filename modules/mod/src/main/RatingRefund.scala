@@ -76,6 +76,8 @@ final private class RatingRefund(
                   perfs = perfs
                 )
                 (points > 0) ?? refundPoints(Victim(user), ref.perf, points)
+                //val highest =
+                //refund
               }
             }
           }
